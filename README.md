@@ -1,7 +1,7 @@
-# 🔐 Secure Banking Management System
+# 🔐 Secure Banking REST API System
 
 ##  Overview
-This is a backend-based Secure Banking Management System built using Java and Spring Boot. The application focuses on secure user authentication, account management, and transaction handling.
+This is a backend-based Secure Banking REST API System built using Java and Spring Boot. The application focuses on secure user authentication, account management, and transaction handling.
 
 ---
 
